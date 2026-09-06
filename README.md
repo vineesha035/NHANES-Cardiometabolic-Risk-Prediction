@@ -1,12 +1,5 @@
 # Identifying Undiagnosed Cardiometabolic Risk Among U.S. Adults
-## NHANES 2021-2023 | HDS 5960-01 Capstone | Saint Louis University
-
-**Author:** Nikhitha Chaparla
-**Advisors:** Dr. Noor Al Hammadi & Dr. Brittany Hollister
-**Program:** Health Data Science, Saint Louis University
-**Semester:** Summer 2026
-**Status:** Manuscript in preparation for journal submission
-
+## NHANES 2021-2023 
 ---
 
 ## Project Overview
@@ -71,8 +64,6 @@ Nine component files merged on SEQN: DEMO_L, DIQ_L, BPQ_L, GHB_L, BPXO_L, TCHOL_
 
 ## Project Structure
 
-Capstone_Project/
-
 ├── 01_load_merge_v2.ipynb           <- Phase 1: load, merge, clean
 
 ├── 02_feature_engineering.ipynb     <- Phase 2: diagnosis gap flags, EDA
@@ -115,6 +106,3 @@ https://public.tableau.com/app/profile/nikhitha.chaparla/viz/NHANESComorbidityAn
 
 ---
 
-## IRB
-
-Exempt under 45 CFR 46.104(d)(4) - publicly available de-identified CDC data
