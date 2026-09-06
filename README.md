@@ -1,7 +1,5 @@
 # Identifying Undiagnosed Cardiometabolic Risk Among U.S. Adults
 ## NHANES 2021-2023 
----
-
 ## Project Overview
 
 This project identifies U.S. adults with objectively confirmed cardiometabolic risk who lack a formal clinical diagnosis, and examines how this diagnosis gap drives emergency department visits and hospitalizations. Using nine NHANES 2021-2023 component files, it builds machine learning models to predict avoidable acute care utilization and extends the analysis to examine comorbidity patterns.
